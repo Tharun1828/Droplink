@@ -134,7 +134,7 @@ __#SavitaBhabhi #ComicVideo #Savita #Hindi #Sexy_voice #Kirtu #Savita_Bhabhi  #C
 
 🔅How to Download -""" + HOWTO + """\n
 📣 Provide By @"""+ CHANNEL + """\n
-__🔊For all  Direct Comics folder lifetime Membership msg me on @Kamdev07 or Join- @vip_comics__"""
+__🔊For all  Direct Comics folder lifetime Membership msg me on @Sk_File_Store_Free_Bot or Join- @Sk_Media_Official__"""
     return str + footer
         
 bot.run()
